@@ -1,0 +1,6 @@
+osoba 555111222 Krzysztof Adamczyk
+osoba 111222333 Jas Fasola
+firma 222333444 morele Bytom
+firma 333444555 xKom Opole
+firma 999999999 Lol Bytom
+
